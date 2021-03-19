@@ -91,17 +91,14 @@ h1 {
 
 h2 {
 	font-family: "filson-pro";
+	font-size: 1.5em;
     line-height: 1.4;
-    color: #fff;
+    color: rgb(41, 15, 15);
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
 
-p {
-	font-family: "filson-pro";
-    line-height: 1.6;
-    color: #fff;
-}
+
 nav{
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 1.2em;
